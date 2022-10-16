@@ -1,0 +1,4 @@
+1-https://stackoverflow.com/questions/13311094/counter-in-collections-module-python
+2-https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.scatter.html
+3-https://stackoverflow.com/questions/68987554/how-can-we-change-the-size-of-all-seaborn-plots
+4-https://www.python-graph-gallery.com/scatter-plot/
